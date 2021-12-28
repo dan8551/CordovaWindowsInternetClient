@@ -1,0 +1,25 @@
+{
+  "name": "cordova-windows-capability-localnetwork",
+  "version": "0.1.1",
+  "description": "Add privateNetworkClientServer Capability to appxmanifest",
+  "cordova": {
+    "id": "cordova-windows-capability-localnetwork",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilhan2013/cordova-windows-capability-localnetwork.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-windows"
+  ],
+  "author": "Dilhan Jayathilake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilhan2013/cordova-windows-capability-localnetwork/issues"
+  },
+  "homepage": "https://github.com/dilhan2013/cordova-windows-capability-localnetwork#readme"
+}
